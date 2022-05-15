@@ -1,0 +1,9 @@
+HTTP/1.1 302 Found
+Server: nginx
+Date: Fri, 13 May 2022 13:51:41 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 0
+Connection: keep-alive
+Set-Cookie: user=user
+Set-Cookie: pass=pass
+Location: success_cookie.php
