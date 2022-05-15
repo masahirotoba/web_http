@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 13 May 2022 13:19:57 GMT
+Content-Type: text/html
+Content-Length: 271
+Connection: keep-alive
+Last-Modified: Fri, 13 May 2022 03:14:36 GMT
+ETag: "10f-5dedc12ffcb86"
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>PHPによるログイン認証</h1>
+        <h1>ログインに成功しました</h1>
+        <p><a href = "login_php.html">前に戻る</p>
+    </body>
+</html>
