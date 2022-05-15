@@ -1,0 +1,11 @@
+HTTP/1.1 302 Found
+Server: nginx
+Date: Fri, 13 May 2022 15:16:28 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 0
+Connection: keep-alive
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: PHPSESSID=18b1706db4c31137ab4f5e63aa7797e2; path=/
+Location: success_session.php
