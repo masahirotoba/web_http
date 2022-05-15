@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sun, 15 May 2022 12:55:19 GMT
+Content-Type: text/html
+Content-Length: 214
+Connection: keep-alive
+Last-Modified: Fri, 13 May 2022 02:54:09 GMT
+ETag: "d6-5dedbc9d5fd35"
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <img src = "thank-you.png"></a>
+        <p><a href = "../../index.html">前に戻る</p>
+    </body>
+</html>
